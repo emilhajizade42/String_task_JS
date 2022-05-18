@@ -21,4 +21,4 @@ function showRepatedSymbols(str) {
   });
 }
 
-showRepatedSymbols("salam  necesiz? sap-sari sarmasiq %@11");
+showRepatedSymbols("salam  necesiz? %@11");
